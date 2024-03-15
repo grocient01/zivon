@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "New Arrival",
+    "subtitle": "Extra backup <br/> More Power",
+    "image": "/assets/img/battery.png",
+    "url": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "title": "Smart Products",
+    "subtitle": "Extra warrenty <br/> More saving",
+    "image": "/assets/img/battery.png",
+    "url": "/shop-grid-standard"
+  }
+]

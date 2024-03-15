@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/product/banner-1.jpg",
+    "title": "Extra Warrenty",
+    "subtitle": "Get Extra 24 Month Warrenty with",
+    "price": "Zivon Batteries",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/product/banner-2.jpg",
+    "title": "Your Safty",
+    "subtitle": "IP65 Rating on",
+    "price": "Zivon Batteries",
+    "link": "/shop-grid-standard"
+  }
+]
